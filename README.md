@@ -88,5 +88,7 @@ The script also expects the census data to be in specific tables from the 2020 D
 
 Output
 The script out puts various csv's throughout the proccess allowing one to effectively view these very large datasets.
+findings.txt is my write up about the project and my conclusion, presentation.odp is my powerpoint, /census and /acs are just data from the census bureau, '/Censored data' is where the main project is it's censored since the voter info and api request and response are all gone, but if you put some real addresses in it should all still work, and the anonymized (which is the useful data anyway) is all still there.
+Thanks.
 =======
 >>>>>>> 57b52ac7397df6b368e7c552f04c9a5c15130996
