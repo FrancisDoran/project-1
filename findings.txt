@@ -1,0 +1,30 @@
+Decoding Voting Behavior in Oakland by Census Tract
+
+In this endeavor, various influencing factors on voting behavior in the Oakland region were examined. I looked at various factors such as socioeconomic status, education, age, and race, to provide a clearer picture of Oakland electoral landscape.
+
+Socioeconomic Status and Voting Behavior
+
+The study underscores a stark negative correlation between poverty levels and voter participation. Tracts with higher poverty percentages exhibited noticeably lower voter turnout, indicating that poverty is a potent determinant of non-voting behavior. This is one of the key issues Democracy Dollars seeks to address by giving campaigns a financial incentive to court low income neighborhoods for their vouchers but if those living there are still to disengaged the program will fail.
+
+Role of Education in Voting
+
+The analysis also established the influential role of education on voting habits. Individuals with graduate degrees were most likely to vote, while those with education levels of high school or less emerged as strong non-voters, especially in areas with higher poverty rates. This illustrates that education level is a significant predictor of voting behavior. Union workers (electrician, longshoreman, elevator repair, plumber) can obtain a large income with only a high school diploma it would be interesting to see their voting rates. And conversely what about over employed individuals who are not utilizing their degrees?
+
+Interplay of Age, Race, and Voting Patterns
+
+A moderate correlation was found between median age and voter participation, suggesting that age, while not the most dominant factor, still influences voting behavior.
+
+Race exhibited varied correlations with voting participation. The White population showed a strong positive correlation with voting, while a minor negative correlation was noticed with the Black population. The Hispanic or Latino population demonstrated a moderate negative correlation, and the Asian population correlation was weakest. However, these racial correlations were generally not as potent as socioeconomic status and education, with the exception of the White and Latino populations.
+
+Racial disparities in Oakland, despite its diverse nature (only 1/3 white), were also observed. White populations were represented more strongly in categories correlating with higher voter participation, hinting at possible racial imbalances in democratic engagement.
+
+Interestingly, the racial distribution in the top 75th percentile of non-White tracts was more even, suggesting that race might not be the root cause of voting disparities. It appears that factors such as median income, age, and education gaps could be more influential.
+
+Given the tract-based nature of this analysis, the data set presented limitations in disentangling race from class due to a lack of individual-level demographic data. Consequently, it's crucial to note that the findings should be interpreted cautiously, and more granular, individual-based data could provide a more accurate picture.
+
+While poverty and education emerged as key determinants of voting behavior, race also played a role, albeit with varying degrees of correlation. Further work needs to be done to understand the intricate relationships between race, education, and socioeconomic status. Despite these limitations, this study provides a valuable starting point for addressing socioeconomic and educational disparities and fostering more equitable democratic participation in Oakland.
+
+
+
+
+
